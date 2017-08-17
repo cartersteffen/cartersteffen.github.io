@@ -529,7 +529,7 @@
 					text-align: center;
 					text-indent: 3.75em;
 					white-space: nowrap;
-					border-color: #ff7496;
+
 				}
 
 					ul.icons li a:before {
@@ -560,6 +560,7 @@
 						line-height: inherit;
 						text-align: center;
 						text-indent: 0;
+						border-color: #ff7496;
 					}
 
 					ul.icons li a:hover {
