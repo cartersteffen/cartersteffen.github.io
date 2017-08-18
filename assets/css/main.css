@@ -570,7 +570,7 @@
 					}
 
 					ul.icons li a.fa-github:hover:before {
-						//text-shadow: .px 0px 0px #000, -.3px 0px 0px #000, 0px .3px 0px #000, 0px -.3px 0px #000;
+						text-shadow: .15px 0px 0px #000, -.15px 0px 0px #000, 0px .15px 0px #000, 0px -.15px 0px #000;
 					}
 
 
