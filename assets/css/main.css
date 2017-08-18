@@ -566,7 +566,7 @@
 					}
 
 					ul.icons li a.fa-linkedin:hover:before {
-						text-shadow: .75px 0px 0px #000, -.75px 0px 0px #000, 0px 1.0px 0px #000, 0px -.75px 0px #000;
+						text-shadow: .5px 0px 0px #000, -.5px 0px 0px #000, 0px 1.0px 0px #000, 0px -.5px 0px #000;
 					}
 
 					ul.icons li a.fa-github:hover:before {
@@ -575,7 +575,7 @@
 
 
 					ul.icons li a.fa-facebook:hover:before {
-						text-shadow: .5px 0px 0px #000, -.5px 0px 0px #000, 0px .75px 0px #000, 0px -.5px 0px #000;
+						text-shadow: .5px 0px 0px #000, -.5px 0px 0px #000, 0px 1.0px 0px #000, 0px -.5px 0px #000;
 					}
 
 
