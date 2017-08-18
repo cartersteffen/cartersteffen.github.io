@@ -547,8 +547,8 @@
 					}
 
 					ul.icons li a.fa-linkedin:before {
-						color: blue;
-						text-shadow: 1.5px 0px 0px #ff7496, -1.5px 0px 0px #ff7496, 0px 1.5px 0px #ff7496, 0px -1.5px 0px #ff7496;
+						color: #0077B5;
+						//text-shadow: 1.5px 0px 0px #ff7496, -1.5px 0px 0px #ff7496, 0px 1.5px 0px #ff7496, 0px -1.5px 0px #ff7496;
 					}
 
 					ul.icons li a.fa-github:before {
@@ -562,7 +562,7 @@
 					}
 
 					ul.icons li a:hover:before {
-						text-shadow: 1.5px 0px 0px #000, -1.5px 0px 0px #000, 0px 1.5px 0px #000, 0px -1.5px 0px #000;
+						text-shadow: .5px 0px 0px #000, -.5px 0px 0px #000, 0px .5px 0px #000, 0px -.5px 0px #000;
 					}
 
 					ul.icons li a:before {
