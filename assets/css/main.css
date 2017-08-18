@@ -525,7 +525,7 @@
 					border-radius: 100%;
 					border: solid 1.5px #ff7496;
 					line-height: 3.75em;
-					overflow: hidden;
+					//overflow: hidden;
 					text-align: center;
 					text-indent: 3.75em;
 					white-space: nowrap;
