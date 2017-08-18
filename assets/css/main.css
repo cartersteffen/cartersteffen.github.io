@@ -542,7 +542,22 @@
 					}
 
 					ul.icons li a.fa-twitter:before {
+						color: #00aced;
+						text-shadow: 1.0px 0px 0px #ff7496, -1.0px 0px 0px #ff7496, 0px 1.0px 0px #ff7496, 0px -1.0px 0px #ff7496;
+					}
+
+					ul.icons li a.fa-linkedin:before {
 						color: blue;
+						text-shadow: 1.5px 0px 0px #ff7496, -1.5px 0px 0px #ff7496, 0px 1.5px 0px #ff7496, 0px -1.5px 0px #ff7496;
+					}
+
+					ul.icons li a.fa-github:before {
+						color: #000;
+						text-shadow: .5px 0px 0px #ff7496, -.5px 0px 0px #ff7496, 0px .5px 0px #ff7496, 0px -.5px 0px #ff7496;
+					}
+
+					ul.icons li a.fa-facebook:before {
+						color: #3b5998;
 						text-shadow: 1.5px 0px 0px #ff7496, -1.5px 0px 0px #ff7496, 0px 1.5px 0px #ff7496, 0px -1.5px 0px #ff7496;
 					}
 
