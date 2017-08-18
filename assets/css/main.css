@@ -518,7 +518,7 @@
 
 				ul.icons li a {
 					text-decoration: none;
-					position: absolute;
+					position: relative;
 					display: block;
 					width: 3.75em;
 					height: 3.75em;
