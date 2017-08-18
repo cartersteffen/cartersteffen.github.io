@@ -541,7 +541,7 @@
 						text-transform: none !important;
 					}
 
-					ul.icons li a:before {
+					ul.icons li a:before.fa-twitter {
 						color: blue;
 						text-shadow: 1.5px 0px 0px #ff7496, -1.5px 0px 0px #ff7496, 0px 1.5px 0px #ff7496, 0px -1.5px 0px #ff7496;
 					}
