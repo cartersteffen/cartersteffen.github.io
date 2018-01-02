@@ -575,6 +575,8 @@
 
 
 					ul.icons li a.fa-facebook:hover:before {
+						color: white;
+						background-color: #3b5998;
 						text-shadow: .5px 0px 0px #000, -.5px 0px 0px #000, 0px 1.5px 0px #000, 0px -.5px 0px #000;
 					}
 
@@ -759,7 +761,7 @@
 			position: relative;
 			display: block;
 			margin-bottom: 1.5em;
-			
+
 		}
 
 			#main .avatar img {
