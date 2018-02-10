@@ -572,7 +572,7 @@
 					}
 
 					ul.icons li a.fa-twitter:hover:before {
-						background-color: #00aced;
+
 						color: white;
 						text-shadow: 1.0px 0px 0px #000, -1.0px 0px 0px #000, 0px 1.5px 0px #000, 0px -1.0px 0px #000;
 					}
@@ -585,26 +585,44 @@
 
 					ul.icons li a.fa-github:hover:before {
 						color: white;
-						background-color: #000;
+
 						text-shadow: .15px 0px 0px #000, -.15px 0px 0px #000, 0px .15px 0px #000, 0px -.15px 0px #000;
 					}
 
 
 					ul.icons li a.fa-facebook:hover:before {
-						color: white;
-						background-color: #3b5998;
+						//color: white;
+
 						text-shadow: .5px 0px 0px #000, -.5px 0px 0px #000, 0px 1.5px 0px #000, 0px -.5px 0px #000;
 					}
 
-					.social:hover {
+					#linked-in:hover {
 						color: white;
 						background-color: #0077B5;
 						border-radius: 100%;
 					}
 
+					#twitter:hover {
+						color: white;
+						background-color: #00aced;
+						border-radius: 100%;
+					}
+
+					#github:hover {
+						color: white;
+						background-color: #000;
+						border-radius: 100%;
+					}
+
+					#facebook:hover {
+						color: white;
+						background-color: #3b5998;
+						border-radius: 100%;
+					}
+
 
 					ul.icons li a:hover {
-						border-color: #000;
+						//border-color: #000;
 					}
 
 			@media screen and (max-width: 480px) {
