@@ -579,7 +579,7 @@
 
 					ul.icons li a.fa-linkedin:hover:before {
 						color: white;
-						background-color: #0077B5;
+
 						text-shadow: .5px 0px 0px #000, -.5px 0px 0px #000, 0px 1.5px 0px #000, 0px -.5px 0px #000;
 					}
 
@@ -596,7 +596,9 @@
 						text-shadow: .5px 0px 0px #000, -.5px 0px 0px #000, 0px 1.5px 0px #000, 0px -.5px 0px #000;
 					}
 
-
+					.social {
+						background-color: #0077B5;
+					}
 
 
 					ul.icons li a:hover {
