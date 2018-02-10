@@ -539,7 +539,17 @@
 						font-style: normal;
 						font-weight: normal;
 						text-transform: none !important;
+						position: absolute;
+						top: 0;
+						left: 0;
+						width: inherit;
+						height: inherit;
+						font-size: 1.85rem;
+						line-height: inherit;
+						text-align: center;
+						text-indent: 0;
 					}
+
 
 					ul.icons li a.fa-twitter:before {
 						color: #00aced;
@@ -587,17 +597,6 @@
 
 
 
-					ul.icons li a:before {
-						position: absolute;
-						top: 0;
-						left: 0;
-						width: inherit;
-						height: inherit;
-						font-size: 1.85rem;
-						line-height: inherit;
-						text-align: center;
-						text-indent: 0;
-					}
 
 					ul.icons li a:hover {
 						border-color: #000;
